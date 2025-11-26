@@ -3,6 +3,7 @@
 My Name **Kukuh Setiadi**<br>
 I'm Currently studying at **Amikom Yogyakarta University**.<br>
 I'm a Newbie in Software Development
+<p src="https://www.linkedin.com/in/kukuhsetiadi/">LinkedIn</p>
 
 <p align="left">
   <a href="github.com/kukuhks">
