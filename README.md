@@ -4,6 +4,7 @@ My Name **Kukuh Setiadi**<br>
 I'm Currently studying at **Amikom Yogyakarta University**.<br>
 I'm a Newbie in Software Development
 <p>
+  Let's Connect to my 
   <a href="https://www.linkedin.com/in/kukuhsetiadi/">
     LinkedIn
   </a>
